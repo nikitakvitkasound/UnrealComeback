@@ -6,9 +6,23 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/BP_Door_v01.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8Y/DBVFLYMQFRNQNJRRFZVX7U.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/SM_Door1.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/SM_DoorFrame1.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/SM_Door.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/SM_DoorFrame.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/BP_Door_v01.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/SM_Door.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/SM_DoorFrame.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/SM_Door_.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/SM_Door_BEC.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/SM_DoorFrame_BEC.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorSystem/SM_Door_Collision.uasset",
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/StarterContent/Props/SM_Door_Collision.uasset",
 				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/DoorV01.uasset",
-				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/BP_DoorV01.uasset",
-				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/BP_Door_v01.uasset"
+				"D:/NikitaKvitka/learning/ue5/MySandbox/Content/01_BlueprintEssentialConcepts/BP_DoorV01.uasset"
 			]
 		}
 	]

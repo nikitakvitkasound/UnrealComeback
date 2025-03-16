@@ -1,12 +1,14 @@
 #################################
 # Unreal Engine Generated Files #
 #################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+MySandbox/[Bb]uild
+MySandbox/[Bb]uilds
+MySandbox/Binaries
+MySandbox/DerivedDataCache
+MySandbox/Intermediate
+MySandbox/Saved
+MySandbox/Saved/Logs
+MySandbox/Saved/Config
 
 #################################
 # Visual Studio Generated Files #

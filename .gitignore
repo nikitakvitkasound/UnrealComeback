@@ -1,39 +1,28 @@
 #################################
 # Unreal Engine Generated Files #
 #################################
-MySandbox/[Bb]uild
-MySandbox/[Bb]uilds
-MySandbox/Binaries
-MySandbox/DerivedDataCache
-MySandbox/Intermediate
-MySandbox/Saved
-MySandbox/Saved/Logs
-MySandbox/Saved/Config
+**/[Bb]uild/
+**/[Bb]uilds/
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Saved/Logs/
+**/Saved/Config/
 
 #################################
 # Visual Studio Generated Files #
 #################################
-# Cache Directory
-.vs
-# User Specific Files
+.vs/
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
-# CPP Cache Files
 *.VC.db
 *.opendb
 *.opensdf
 *.sdf
-# Solution Files
 *.sln
-# VSCode Cache Directory
-.vscode
-# VSCode History Files
-**/.history
-
-#################################
-# Miscellaneous Generated Files #
-#################################
-# ADD AS NEED BE
+.vscode/
+**/.history/
